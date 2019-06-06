@@ -1,0 +1,201 @@
+body {
+	font-family: arial;
+	margin: 0px;
+}
+@font-face {
+	font-family: txt;
+	src: url(txt.otf);
+}
+@font-face {
+	font-family: fff;
+	src: url(fff.ttf);
+}
+.famili {
+	font-family: fff;
+}
+.famili1 {
+	font-family: txt;
+}
+.flex {
+	display: flex;
+}
+.banner {
+	height: 700px;
+	background-image: url(banner.jpg);
+	background-size: 100% 100%;
+}
+.logo {
+	padding-top: 250px;
+	padding-left: 470px;
+}
+.proekt {
+	height: 700px;
+	background-color: white;
+}
+.proekt h1 {
+	color: #3f415b;
+}
+.proekt h3 {
+	color: #3f415b;
+}
+.proekt p {
+	color: #7a7a7c;
+}
+.div_pr {
+	height: 400px;
+	width: 300px;
+}
+.img_pr {
+	height: 300px;
+	width: 300px;
+	transition: 0.8s;
+}
+.img_pr:hover {
+	background-color: red;
+	transform: scale(1.05);
+	opacity: 0.8;
+}
+.text_pr {
+	text-align: center;
+}
+.ml100 {
+	margin-left: 180px;
+}
+.ml30 {
+	margin-left: 30px;
+}
+.proekt h1 {
+	font-weight: normal;
+	font-size: 50px;
+	text-align: center;
+	padding-top: 100px;
+}
+.photo {
+	height: 1500px;
+	background-color: white;
+}
+.photo p {
+	color: white;
+	font-weight: normal;
+	font-size: 20px;
+	padding-right: 10px;
+}
+.block {
+	height: 1500px;
+	width: 1300px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+.mini_block {
+	height: 300px;
+	width: 1300px;
+	
+	margin-top: 30px;
+}
+.mm_block {
+	height: 300px;
+	width: 400px;
+	background-color: gray;
+	transition: 0.8s;
+}
+.mm_block:hover {
+	background-color: gray;
+	transform: scale(1.05);
+	opacity: 0.8;
+}
+.left {
+	margin-left: 220px;
+}
+.ots {
+	margin-left: 30px;
+}
+.img {
+	height: 300px;
+	width: 400px;
+}
+.text_ml {
+	padding-left: 10px;
+}
+.okomp {
+	height: 700px;
+	background-image: url(banner1.jpg);
+	background-size: 100% 100%;
+}
+.text_okomp {
+	padding-left: 100px;
+	color: white;
+}
+.div_text {
+	padding-top: 100px;
+	width: 1300px;
+}
+.okomp h2 {
+	font-size: 40px;
+}
+.okomp h3 {
+	font-size: 24px;
+}
+.p1 {
+	font-size: 20px;
+}
+.info {
+	height: 700px;
+	background-color: white;
+}
+.info_div {
+	height: 600px;
+	width: 1300px;
+	
+	margin-left: auto;
+	margin-right: auto;
+}
+.mini_info {
+	
+}
+.znak {
+	height: 100px;
+	width: 70px;
+}
+.ml {
+	padding-left: 20px;
+}
+.zn {
+	height: 100px;
+	width: 90px;
+}
+.padding_top {
+	padding-top: 80px;
+}
+.ml1 {
+	padding-left: 13px;
+}
+.pad {
+	padding-top: 50px;
+}
+.info h1 {
+	font-size: 40px;
+}
+.info h3 {
+	font-size: 20px;
+}
+a {
+	text-decoration: none;
+	font-size: 18px;
+	color: black;
+}
+.ml_info {
+	margin-left: 100px;
+}
+.zakl {
+	background-color: black;
+	height: 130px;
+}
+.zakl p {
+	color: white;
+	text-align: center;
+	font-weight: normal;
+}
+.pad_z {
+	padding-top: 10px;
+}
